@@ -1,0 +1,6 @@
+{
+  "experimentalTernaries": true,
+  "jsxSingleQuote": false,
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+}
